@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyApp</string>
+    <string name="whichTeamIsIt">which team is this?</string>
+    <string name="whatIsTheColor">What color?</string>
+    <string name="wildcard">wildcard?</string>
+
+</resources>
